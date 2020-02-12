@@ -9,11 +9,6 @@ To submit a new translation for Genesis, fork or clone this repository. Create a
 ## Localizing Text
 
 ```objective-c
-
-<plist version="1.0">
-	<dict>
-		<key>GLOBAL_ENABLED</key> // Do not change this line
-		<string>Enabled</string> // This is what you would translate and change
-	</dict>
-</plist>
+<key>GLOBAL_ENABLED</key> // Do not change this line
+<string>Enabled</string> // This is what you would translate and change
 ```
