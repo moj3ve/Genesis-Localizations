@@ -1,0 +1,22 @@
+<plist version="1.0">
+    <dict>
+        <key>ALIGNMENT</key>
+        <string>Alignment</string>
+        <key>ALIGNMENT_LEFT</key>
+        <string>Left</string>
+        <key>ALIGNMENT_CENTER</key>
+        <string>Center</string>
+        <key>ALIGNMENT_RIGHT</key>
+        <string>Right</string>
+        <key>HIDE_NO_OLDER</key>
+        <string>Hide "No Older Notifications"</string>
+        <key>HIDE_PAGE_DOTS</key>
+        <string>Hide Page Dots</string>
+        <key>HIDE_QUICK_ACTIONS</key>
+        <string>Hide Quick Actions</string>
+        <key>HIDE_QUICK_ACTION_BG</key>
+        <string>Hide Quick Action Background</string>
+        <key>LOCKSCREEN_TITLE</key>
+        <string>Lock Screen</string>
+    </dict>
+</plist>

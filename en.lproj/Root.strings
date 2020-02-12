@@ -1,0 +1,18 @@
+<plist version="1.0">
+    <dict>
+        <key>GLOBAL_ENABLED</key>
+        <string>Enabled</string>
+        <key>CONTROLCENTER_PAGE</key>
+        <string>Control Center</string>
+        <key>LOCKSCREEN_PAGE</key>
+        <string>Lock Screen</string>
+        <key>MISC_PAGE</key>
+        <string>Miscellaneous</string>
+        <key>SPRINGBOARD_PAGE</key>
+        <string>SpringBoard</string>
+        <key>STATUSBAR_PAGE</key>
+        <string>Status Bar</string>
+        <key>ROOT_TITLE</key>
+        <string>Genesis</string>
+    </dict>
+</plist>

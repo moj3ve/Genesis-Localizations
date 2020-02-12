@@ -1,0 +1,36 @@
+<plist version="1.0">
+    <dict>
+        <key>HIDE_DOCK_BACKGROUND</key>
+        <string>Hide Dock Background</string>
+        <key>DOCK_ICONS</key>
+        <string>Dock Icons</string>
+        <key>CUSTOM_LAYOUT</key>
+        <string>Custom Layout</string>
+        <key>NUMBER_OF_COLUMNS</key>
+        <string>Number of Columns</string>
+        <key>NUMBER_OF_ROWS</key>
+        <string>Number of Rows</string>
+        <key>CUSTOM_INSETS</key>
+        <string>Custom Insets</string>
+        <key>TOP_INSET</key>
+        <string>Top Inset</string>
+        <key>BOTTOM_INSET</key>
+        <string>Bottom Inset</string>
+        <key>SIDE_INSET</key>
+        <string>Side Inset</string>
+        <key>DISABLE_SPOTLIGHT</key>
+        <string>Disable Spotlight</string>
+        <key>DISABLE_TODAY_VIEW</key>
+        <string>Disable Today View</string>
+        <key>HIDE_LABELS</key>
+        <string>Hide Labels</string>
+        <key>HIDE_PAGE_DOTS</key>
+        <string>Hide Page Dots</string>
+        <key>HIDE_APPS</key>
+        <string>Hide Apps</string>
+        <key>SELECT_APPS_TO_HIDE</key>
+        <string>Select Apps to Hide</string>
+        <key>SPRINGBOARD_TITLE</key>
+        <string>SpringBoard</string>
+    </dict>
+</plist>

@@ -1,0 +1,10 @@
+<plist version="1.0">
+    <dict>
+        <key>DISABLE_SIM_ALERTS</key>
+        <string>Disable "No SIM" Alerts</string>
+        <key>HIDE_SEPARATOR_CELLS</key>
+        <string>Hide Separator Cells</string>
+        <key>MISC_TITLE</key>
+        <string>Miscellaneous</string>
+    </dict>
+</plist>

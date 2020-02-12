@@ -1,0 +1,8 @@
+<plist version="1.0">
+    <dict>
+        <key>SLIDER_PERCENTAGE</key>
+        <string>Add Percentage to Sliders</string>
+        <key>CONTROLCENTER_TITLE</key>
+        <string>Control Center</string>
+    </dict>
+</plist>

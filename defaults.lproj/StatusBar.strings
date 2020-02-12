@@ -1,0 +1,8 @@
+<plist version="1.0">
+    <dict>
+        <key>HIDE_CHARGING_BOLT</key>
+        <string>Hide Charging Bolt</string>
+        <key>STATUSBAR_TITLE</key>
+        <string>Status Bar</string>
+    </dict>
+</plist>
